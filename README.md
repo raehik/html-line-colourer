@@ -1,5 +1,5 @@
 html-line-colourer
-==================
+======================
 
 Colours each word separately in a given line using a list of possible HTML colours, then colours a second given line using a variable denoting which word-colour each word should have.
 
