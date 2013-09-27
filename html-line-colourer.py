@@ -3,77 +3,69 @@ import os
 import argparse
 import random
 
-# default colours if -c file not passed
 def_colours = ['0dcf00', 'd80000', 'bdc134', '00caca', '269006', 'c842c8']
 def_step = 3
-# file to write to
+
 file_name = "colourer-anki-import.txt"
 
-def get_input():
-    """Call the correct function(s) for the type of input given."""
-    # check that we were given a file
-    if args.file:
-        if os.path.isfile(args.file):
-            return file_to_list(args.file)
-        else:
-            sys.exit("not a file")
-    else:
-        sys.exit("clipboard support coming soon")
 
 def file_to_list(orig_file):
     """Reads a file to a universal newline-stripped list."""
+    try:
+        with open(orig_file, 'r') as f: pass
+    except IOERROR:
+        sys.exit("ERROR: not a file")
     with open(orig_file, 'r') as f:
-        # first to string
         s = f.read()
-    # then filter universal newlines
-    lst = s.splitlines()
-    # remove empty elements
-    lst = filter(None, lst)
+    lst = s.splitlines() # listify, filter universal newlines
+    lst = filter(None, lst) # remove empty elements (any newline spacing)
     return lst
 
 def alt_element(data, step):
-    lst = [ [] for _ in range(step) ] # list comprehension to create an empty list
+    lst = [ [] for _ in range(step) ] # create empty list
     for i in range(step):
-        lst[i]= data[i::step]
+        lst[i]= data[i::step] # group passages
     return lst
 
 def get_random_elements_pop(l, req_len):
-    """Return list of randomised elements from l with length req_len.
+    """Return a list of shuffled elements from l with length req_len.
     
-    Does not reuse elements, so fails if no. of elements in l is
-    less than no. of elements in req_len.
+    Pops elements, so fails if no. of elements in l is less than req_len.
     
     """
-    if len(l) < req_len:                # if req_len is longer than l:
-        sys.exit("length too long")     # exit because otherwise we'll return
-                                        # a list without length req_len
+    if len(l) < req_len:
+        sys.exit("ERROR: req_len can not be reached")
     rand_l = shuffle(l)
-    while len(rand_l) != req_len:       # until rand_l is right length:
-        rand_l.pop()                    # pop elements until correct length
+    while len(rand_l) != req_len:
+        rand_l.pop() # pop elements until correct length
     return rand_l
 
 def shuffle(l):
     """Returns a shuffled copy of list l."""
     l2 = l[:]           # copy l into l2
     random.shuffle(l2)  # shuffle l2
-    return l2           # return shuffled l2
+    return l2
 
 def get_master(lst, colours):
     """Colours a line as 'line 1'."""
     lst_format = [] # initialise list for appending to
     for i in range(len(lst)):
         word = lst[i]
-        (space, word) = get_filter_backquote(word)
+        (space, word) = word_filter(word)
         lst_format.append('<font color="#' + colours[i] + '">' + word + '</font>' + space)
     # join into one string, remove final char (space)
     str_format = ''.join(lst_format)[:-1]
     return str_format
 
-def get_filter_backquote(word):
-    """Checks a word for backquotes."""
+def word_filter(word):
+    """Checks a word for backquotes and does things with them."""
     if word.find('`') != -1: # if there is a backquote somewhere
-        space = '' # no space between it and next word
-        word = word.replace('`', '') # remove backquote
+        if word.find('`') == word.__len__()-1: # if only 1 and is at the end
+            space = '' # no space between it and next word
+            word = word.replace('`', '') # remove backquote
+        else:
+            space = ' '
+	    word = word.replace('`',' ') # replace backquote(s) with spaces
     else:
         space = ' ' # default to spacing words
     return (space, word)
@@ -89,35 +81,22 @@ def get_slave(lst, colours, col_ord):
             lst_format.append(word + ' ')
         else:
             try:
-                #   col_ord[i]-1 = an int
-                #   for example if we were given:
-                #
-                # example
-                # first second
-                # 56 1
-                #
-                #   then col_ord[i]-1 = 55
-                #   it's all because if col_ord is 0, we use it differently
-                #   so col_ord is used as a 1-index list (so it's easier to
-                #   understand - I mean who would type '0' if they wanted that
-                #   word to correspond to the 1st word?)
+                # TODO: probably move this lol
+                # remember col_ord is used as a one-based list to ease
+		# understanding - it also means 0 can be used specially
+		# for no colour -change-
                 lst_format.append('<font color="#' + colours[col_ord[i]-1] + '">' + word + '</font> ')
             except IndexError:
                 sys.exit("ERROR: master (1st line) is not that long (less than " + str(col_ord[i]) + " word(s) long)")
-    # join into one string then remove final char
+    # join into one string then remove final char (= space)
     str_format = ''.join(lst_format)[:-1]
     return str_format
 
-def to_anki_file(file, master, slave):
-    open(file, "w").close() # clear file
+def to_anki_file(f, master, slave):
+    f = open(f, "w")
     for i in range(len(master_formatted)):
-        write_to_anki_file(file_name, master_formatted[i], slave_formatted[i])
-    lines = open(file_name).read().strip()
-    open(file_name, "w").write(lines)
+        f.write(master[i] + ';' + slave[i] + "\n")
 
-def write_to_anki_file(file, master, slave):
-    f = open(file,"a")
-    f.write(master + ";" + slave + "\n")
 
 # initialise argparse
 parser = argparse.ArgumentParser(description="Colour lines randomly word-by-word with HTML <font> tags.")
@@ -129,16 +108,16 @@ args = parser.parse_args() # get command-line args
 colours = open(args.colours).readline().strip().split() if args.colours else def_colours
 step = args.step if args.step else def_step
 
-data = get_input() # input as list
+data = file_to_list(args.file)
 split_data = alt_element(data, step)
 
 # check that we got something
 if len(split_data[0]) == 0:
-    sys.exit("ERROR: not one full 3-line passage found (file is < 3 lines)")
+    sys.exit("ERROR: no slave-master-colour passages found")
 
 # check data was all right
 if len(split_data[0]) != len(split_data[1]):
-    sys.exit("ERROR: lists don't match up (not enough slaves for masters)")
+    sys.exit("ERROR: not enough slaves for masters")
 
 # get formatted lists
 master_formatted = []
