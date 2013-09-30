@@ -5,18 +5,16 @@ import random
 
 def_colours = ['0dcf00', 'd80000', 'bdc134', '00caca', '269006', 'c842c8']
 def_step = 3
+def_output = "colourer-anki-import.txt"
 
-file_name = "colourer-anki-import.txt"
 
-
-def file_to_list(orig_file):
+def file_to_list(given_file):
     """Reads a file to a universal newline-stripped list."""
     try:
-        with open(orig_file, 'r') as f: pass
+        f = open(given_file, 'r')
     except IOERROR:
         sys.exit("ERROR: not a file")
-    with open(orig_file, 'r') as f:
-        s = f.read()
+    s = f.read()
     lst = s.splitlines() # listify, filter universal newlines
     lst = filter(None, lst) # remove empty elements (any newline spacing)
     return lst
@@ -103,10 +101,12 @@ parser = argparse.ArgumentParser(description="Colour lines randomly word-by-word
 parser.add_argument("file", help="file to use")
 parser.add_argument("-c", "--colours", metavar="FILE", help="HTML colours to pick from")
 parser.add_argument("-s", "--step", metavar="NUM", type=int, help="integer step to use for file")
+parser.add_argument("-o", "--output", metavar="FILE", help="file to write to")
 args = parser.parse_args() # get command-line args
 
 colours = open(args.colours).readline().strip().split() if args.colours else def_colours
 step = args.step if args.step else def_step
+output = args.output if args.output else def_output
 
 data = file_to_list(args.file)
 split_data = alt_element(data, step)
