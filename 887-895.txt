@@ -1,0 +1,35 @@
+Aeneas instat contra telum` que coruscat
+Aeneas pressed on against [Turnus] and brandished [his] spear
+1 2 2 3 0 5 6 4 4
+
+ingens arboreum, et saeuo sic pectore fatur:
+as huge as a tree, and spoke thus from [his] savage heart:
+1 1 1 2 2 3 7 5 4 4 4 6
+
+'quae nunc deinde mora est? aut quid iam, Turne, retractas?
+"What further delay is [there] now? Or why, Turnus, do you now shrink back?
+1 3 4 5 0 2 6 7 9 10 10 8 10 10
+
+non`cursu, saeuis certandum`est comminus armis.
+We must fight, not with running [but] hand to hand with savage arms/weapons.
+3 3 3 1 1 1 0 4 4 4 5 5 5
+
+uerte omnis tete in facies et contrahe quidquid
+Change yourself into any shape and gather together whatever powers you have
+1 3 4 2 5 6 7 7 8 0 0 0
+
+siue animis siue arte uales; opta ardua pennis
+whether [in] courage or skill; choose to strive for the lofty stars with wings
+1 0 2 3 4 6 0 0 0 7 7 0 8 8
+
+astra sequi clausum` que caua te condere terra.'
+or to bury and hide yourself [in] the hollow earth.
+0 7 7 4 3 6 0 5 5 8
+
+ille caput quassans: 'non me tua feruida terrent
+[Turnus], shaking [his] head, [replied]: "Your fiery words do not terrify me, fierce man;
+0 3 2 2 0 6 7 0 4 4 8 5 0 0
+
+dicta, ferox; di me terrent et Iuppiter hostis.'
+the gods terrify me and Jupiter [is] [my] enemy."
+3 3 5 4 6 7 0 0 8
