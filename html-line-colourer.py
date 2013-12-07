@@ -75,6 +75,7 @@ def get_slave(lst, colours, col_ord):
         sys.exit("ERROR: col_order (3rd line) is not the same length as slave (2nd line).")
     for i in range(len(lst)):
         word = lst[i]
+	(space, word) = word_filter(word)
         if col_ord[i] == 0: # special: 0 = no colour
             lst_format.append(word + ' ')
         else:
