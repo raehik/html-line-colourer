@@ -1,0 +1,23 @@
+at	pater	Æneas	audito	nomine	Turni
+But	father	Æneas,	having`heard	Turnus’	name
+1 	2	3	4		6	5
+
+deserit	et	muros	et	summas	deserit	arces
+both 	abandons	the`walls	and	abandons	the	lofty	citadels
+2	1		3		4	6		7	7	5
+
+præcipitat`	que	moras	omnis,	opera	omnia	rumpit
+and	flings`aside	all	delays	and	breaks`off	all	tasks
+2	1		4	3	0	7	6	5
+
+lætitia		exsultans	horrendum`	que	intonat	armis:
+rejoicing	with`happiness	and	thundering	terribly	with	his	weapons.
+2		1		4	5		3		6	0	6
+
+quantus	Athos	aut	quantus	Eryx	aut	ipse	coruscis
+He	was	as`great`as	mount`Athos,	as`great`as	mount`Eryx,	or	as`great`as	[quantus]	Father`Appeninus	[pater`Appeninus]	himself
+0	0	1		2		4		5		6	0		0		0			0			7
+
+cum	fremit	ilicibus	quantus	gaudet`	que	niuali
+when	he`roars	with	his	quivering	[coruscis]	oak`trees	and	rejoices
+1	2		3	0	0		0		3		6	5
