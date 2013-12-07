@@ -128,4 +128,4 @@ for i in range(len(split_data[0])):
     slave_formatted.append(get_slave(split_data[1][i].split(), random_colours, [ int(x) for x in split_data[2][i].split() ]))
 
 # output to anki file
-to_anki_file(file_name, master_formatted, slave_formatted)
+to_anki_file(output, master_formatted, slave_formatted)
