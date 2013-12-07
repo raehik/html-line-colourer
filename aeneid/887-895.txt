@@ -1,6 +1,6 @@
 Aeneas instat contra telum` que coruscat
-Aeneas pressed on against [Turnus] and brandished [his] spear
-1 2 2 3 0 5 6 4 4
+Aeneas	pressed	on	against	[Turnus]	and	brandished	[his]	spear
+1	2	2	3	0		5	6		4	4
 
 ingens arboreum, et saeuo sic pectore fatur:
 as huge as a tree, and spoke thus from [his] savage heart:
