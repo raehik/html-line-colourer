@@ -3,9 +3,10 @@ import os
 import argparse
 import random
 
-def_colours = ['0dcf00', 'd80000', 'bdc134', '00caca', '269006', 'c842c8']
+def_colours = ['919AC', '59BCFF', 'CC0000', 'E69316', '8A5C2E', '005200', '33CC33', 'FF9DFF', '84299A', '82829B', ]
 def_step = 3
-def_output = "colourer-anki-import.txt"
+def_output = "out.txt"
+def_field_delim = '~'
 
 
 def file_to_list(given_file):
@@ -94,7 +95,7 @@ def get_slave(lst, colours, col_ord):
 def to_anki_file(f, master, slave):
     f = open(f, "w")
     for i in range(len(master_formatted)):
-        f.write(master[i] + ';' + slave[i] + "\n")
+        f.write(master[i] + field_delim + slave[i] + "\n")
 
 
 # initialise argparse
@@ -103,11 +104,13 @@ parser.add_argument("file", help="file to use")
 parser.add_argument("-c", "--colours", metavar="FILE", help="HTML colours to pick from")
 parser.add_argument("-s", "--step", metavar="NUM", type=int, help="integer step to use for file")
 parser.add_argument("-o", "--output", metavar="FILE", help="file to write to")
+parser.add_argument("-d", "--delim", metavar="CHAR", help="char to use as Anki field delimiter")
 args = parser.parse_args() # get command-line args
 
 colours = open(args.colours).readline().strip().split() if args.colours else def_colours
 step = args.step if args.step else def_step
 output = args.output if args.output else def_output
+field_delim = args.delim if args.delim else def_field_delim
 
 data = file_to_list(args.file)
 split_data = alt_element(data, step)
