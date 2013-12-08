@@ -73,6 +73,7 @@ def get_slave(lst, colours, col_ord):
     """Colours a line as 'line 2'."""
     lst_format = [] # initialise list for appending to
     if len(col_ord) != len(lst):
+	print(lst)
         sys.exit("ERROR: col_order (3rd line) is not the same length as slave (2nd line).")
     for i in range(len(lst)):
         word = lst[i]
