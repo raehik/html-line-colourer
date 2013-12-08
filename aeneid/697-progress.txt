@@ -15,9 +15,57 @@ rejoicing	with`happiness	and	thundering	terribly	with	his	weapons.
 2		1		4	5		3		6	0	6
 
 quantus	Athos	aut	quantus	Eryx	aut	ipse	coruscis
-He	was	as`great`as	mount`Athos,	as`great`as	mount`Eryx,	or	as`great`as	[quantus]	Father`Appeninus	[pater`Appeninus]	himself
-0	0	1		2		4		5		6	0		0		0			0			7
+He	was	as`great`as	mount`Athos,	as`great`as	mount`Eryx,	or	as`great`as`[quantus]	Father`Appeninus`[pater`Appeninus]	himself
+0	0	1		2		4		5		6	0			0					7
 
 cum	fremit	ilicibus	quantus	gaudet`	que	niuali
-when	he`roars	with	his	quivering	[coruscis]	oak`trees	and	rejoices
-1	2		3	0	0		0		3		6	5
+when	he`roars	with	his	quivering`[coruscis]	oak`trees	and	rejoices
+1	2		3	0	0			3		6	5
+
+uertice se	attollens	pater	Apenninus	ad	auras.
+lifting	himself	to	the`breeze	with	his	snowy`[niuali]	peak.
+3	2	6	7		1	0	0		1
+
+iam	uero	et	Rutuli	certatim	et	Trœs	et	omnes
+Now	indeed	both	the`Rutilians	and	the`Trojans	and	all	the`Italians`[Itali]
+1	2	3	4		6	7		8	9	0
+
+conuertere	oculos	Itali,	qui`	que	alta	tenebant
+eagerly`[certatim]	turned	their	eyes,	to	see	both	those`who	were`holding
+0			1	0	2	0	0	5	4		7
+
+mœnia	qui`	que	imos	pulsabant	ariete	muros,
+the`lofty`[alta]	ramparts	and	those`who	were`battering	the`base	of`the`walls	with`their`ram,
+0			7		3	2		5		4		1		6
+
+arma`	que	deposuere	umeris.	stupet	ipse	Latinus
+having`removed	their	weapons	from	their  	shoulders.	Latinus	himself	was`amazed
+3		0	1	4	0	4		7	6	5
+
+ingentis,	genitos	diuersis	partibus	orbis,
+that	these	huge	men`[uiros],	born	in	[lit.	of	]	distant	parts	of`the`world,
+0	0	1	0		2	3	0	3	0	3	4	5
+
+inter	se	coiisse	uiros*8	et	cernere	ferro.
+had`come`together	in`battle	and	were`deciding	the`issue	among	themselves	by`sword	[lit.	by`iron	].
+3			0		5	6		0		1	2		7		0	7	0
+
+atque	illi,	ut	uacuo	patuerunt	æquore	campi,
+And	they,	when	the`plain	was`clear	with`an`open	surface,
+1	2	3	7		5		4		6
+
+procursu	rapido	coniectis	eminus	hastis
+with`rapid	forward`charge,	still`far`apart	cast	their	spears
+2		1		4		3	0	5
+
+inuadunt	Martem	clipeis	atque	ære	sonoro.
+and	tearing`foward`they`go	into`war	[lit.	into`Mars	]	with	bronze	shields	clanging.
+4	1			2		0	2		0	3	5	3	6
+
+dat	gemitum	tellus;	tum	crebros	ensibus	ictus
+The`earth	gave	a`groan;	then	with`their`swords	they`redoubled`[congeminant]	their	frequent	blows,
+3		1	2		4	6			0				0	5		7
+
+congeminant,	fors	et	uirtus	miscetur	in	unum.
+chance	and	bravery	were`mingled	into	one.
+2	3	4	5		6	7
