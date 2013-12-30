@@ -8,13 +8,19 @@ def_step = 3
 def_output = "out.txt"
 def_field_delim = '~'
 
+def print_error(err, line=""):
+    print("ERROR: " + err)
+    if line != "":
+        print("Line error was encountered in:")
+        print(line)
+    sys.exit()
 
 def file_to_list(given_file):
     """Reads a file to a universal newline-stripped list."""
     try:
         f = open(given_file, 'r')
-    except IOERROR:
-        sys.exit("ERROR: not a file")
+    except IOError:
+        print_error("not a file")
     s = f.read()
     lst = s.splitlines() # listify, filter universal newlines
     lst = filter(None, lst) # remove empty elements (any newline spacing)
@@ -33,7 +39,7 @@ def get_random_elements_pop(l, req_len):
     
     """
     if len(l) < req_len:
-        sys.exit("ERROR: req_len can not be reached")
+        print_error("req_len can not be reached", l)
     rand_l = shuffle(l)
     while len(rand_l) != req_len:
         rand_l.pop() # pop elements until correct length
@@ -73,11 +79,10 @@ def get_slave(lst, colours, col_ord):
     """Colours a line as 'line 2'."""
     lst_format = [] # initialise list for appending to
     if len(col_ord) != len(lst):
-	print(lst)
-        sys.exit("ERROR: col_order (3rd line) is not the same length as slave (2nd line).")
+        print_error("length of col_order (line 3) != length of slave (line 2)", lst)
     for i in range(len(lst)):
         word = lst[i]
-	(space, word) = word_filter(word)
+        (space, word) = word_filter(word)
         if col_ord[i] == 0: # special: 0 = no colour
             lst_format.append(word + ' ')
         else:
@@ -86,9 +91,9 @@ def get_slave(lst, colours, col_ord):
                 # remember col_ord is used as a one-based list to ease
 		# understanding - it also means 0 can be used specially
 		# for no colour -change-
-                lst_format.append('<font color="#' + colours[col_ord[i]-1] + '">' + word + '</font> ')
+                lst_format.append('<font color="#' + colours[col_ord[i]-1] + '">' + word + '</font>' + space)
             except IndexError:
-                sys.exit("ERROR: master (1st line) is not that long (less than " + str(col_ord[i]) + " word(s) long)")
+                print_error("col_ord specified a word master (line 1) doesn't have - master is not that long (less than " + str(col_ord[i]) + " word(s) long)", lst)
     # join into one string then remove final char (= space)
     str_format = ''.join(lst_format)[:-1]
     return str_format
@@ -118,11 +123,11 @@ split_data = alt_element(data, step)
 
 # check that we got something
 if len(split_data[0]) == 0:
-    sys.exit("ERROR: no slave-master-colour passages found")
+    print_error("no slave-master-colour passages found")
 
 # check data was all right
 if len(split_data[0]) != len(split_data[1]):
-    sys.exit("ERROR: not enough slaves for masters")
+    print_error("not enough slaves for masters")
 
 # get formatted lists
 master_formatted = []
