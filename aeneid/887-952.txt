@@ -1,0 +1,263 @@
+Æneas	instat	contra	telum`	que	corruscat
+Æneas	pressed`on	against	Turnus	and	brandished	his	spear,
+1	2		3	0	5	6		0	4
+
+ingens	arboreum,	et	sæuo	sic	pectore	fatur:
+as`huge`as	a`tree,	and	spoke	thus	from	his	savage	heart,
+1		2	3	7	5	6	0	4	6
+
+‘quae	nunc	deinde	mora	est?	aut	iam,	Turne,	retractas?
+‘What	further	delay	is`there	now?	Or	why,	Turnus,	do`you	now	shrink`back?
+1	3	4	5		2	6	0	8	9	7	9
+
+non	cursu,	sæuis	certandum`est	comminus	armis.
+We	must`fight,	not	with`running	but	hand`to`hand	with	savage	arms.
+0	4		1	2		0	5		6	3	6
+
+uerte	omnis	tete	in	facies	et	contrahe	quidquid
+Change	yourself	into	any	shape	and	gather`together	whatever	powers`you`have`[lit.`you`are`strong`at]`[uales]
+1	3		4	2	5	6	7		8		0
+
+siue	animis	siue	arte	uales;	opta	ardua	pennis
+whether	in`courage	or	in`skill;	choose	to`reach`[sequi]	the	lofty	stars`[astra]	with`wings
+1	2		3	4		6	0			0	7	0		8
+
+astra	sequi	clausum`	que	caua	te	condere	terra.’
+or	to`bury	and	hide	yourself	in`the`caverns	of`the`earth.’
+4	3	0	7	6		5		8
+
+ille	caput	quasans:	‘non	me	tua	feruda	terrent
+Turnus,	shaking	his	head,	replied,	‘You	are	bold`[ferox]	but	your	fiery	words`[dicta]	do	not	terrify	me;
+1	3	0	2	0		0	0	0		0	6	7	0		8	0	8	5
+
+dicta,	ferox;	di	me	terrent	et	Iuppiter	hostis.'
+the`gods	frighten	me	and	Jupiter	as	my	enemy.’
+3		5		4	6	7	0	0	8
+
+nec	plura	effatus	saxum	circumspicit	ingens,
+Having`spoken	no	more	he`looked`around	and	saw	a	huge	rock,
+3		1	2	5			0	0	4	6	4
+
+saxum	antiquum	ingens,	campo	quod	forte	iacebat,
+a	huge	and	ancient	rock,	which	by`chance	was`lying	on	the	plain,
+1	3	0	2	1	5	6		7		0	4	4
+
+limes	agro	positus	litum	ut	discerneret	aruis.
+positioned	as	a`boundary`stone	for`the`field,	to	prevent	a`dispute	over	the`fields.
+3		0	1			2		5	6	4		0	7
+
+uix	illum	lecti	bis	sex	ceruice	subirent,
+This	rock	t`	w`	e`	l`	v`	e	[lit.	twice	six	]	chosen`men	could	scarcely	lift`upon	their	shoulders,
+2	0	3	4	3	4	3	4	0	4	3	0	3		7	1		7		0	6
+
+qualia	nunc	hominum	producit	corpora	tellus;
+men	of`such	physique	as	the`earth	now	produces;
+3	1	5		1	6		2	4
+
+ille	manu	raptum	trepida	torquebat	in	hostem
+that	hero`[heros]	with	hasty	hand	seized	it	and	tried`to`hurl	it	at	his	enemy
+1	0		2	4	2	3	0	0	5		0	6	0	7
+
+altior	insurgens	et	cursu	concitus	heros.
+rising	to`his`full`height	[lit.	higher	]	and	rushing	at`full`speed.
+2	1			0	1	0	3	4	5
+
+sed	neque	curruntem	se	nec	cognoscit	euntem
+But	he`recognised	himself	neither	running	nor	going,
+1	6		4	1	3	5	7
+
+tollentem`	ue	manu	saxum`	ue	immane	mouentem;
+neither	raising	his	hands	nor	hurling	the	mighty	rock;
+2	1	0	3	5	7	4	6	4
+
+genua	labant,	gelidus	concreuit	frigore	sanguis.
+his	knees	gave`way,	his	blood	w`	a`	s	f`	r`	o`	z`	e`	n	c`	h`	i`	l`	l	[lit.	grew	cold	]	with`cold.
+0	1	2		0	6	3	4	3	4	3	4	3	4	3	4	3	4	3	4	0	4	3	0	5
+
+tum	lapis	ipse	uiri	uacuum	per	inane	uolutus
+Then	the	man’s	very	stone,	tumbling`over	through	empty	space,
+1	2	4	3	2	8		6	5	7
+
+nec	spatium	euasit	totum	neque	pertulit	ictum.
+neither	completed	the	whole	distance	between	them	nor	did`it`drive`home	the`blow.
+1	3		2	4	2		0	0	5	6			7
+
+ac	uelut	in	somnis,	oculos	ubi	languida	pressit
+And	as	in	a`dream,	when	languorous	sleep`[quies]	has`weighed`down	our	eyes
+1	2	3	4		6	7		0		8			0	5
+
+nocte	quies,	nequiquam	auidos	extendere	cursus
+at`night,	we`seem`[uidemur]	to`want[uelle]	to`run`on	eagerly	further	in`vain
+1		0			0		6		4	5	3
+
+uelle	uidemur	et	in	mediis	conatibus	ægri
+and	in	mid	effort	we`sink`down`[succidimus]	exhausted;
+3	4	5	6	0				7
+
+succidimus;	non	lingua	ualet	non	corpore	notæ
+our	tongue	has	no	power,	our	usual	strength`[uires]	f`	a`	i`	l`	s	[lit.	is	not	sufficient`[sufficiunt]	for	]	our	body,
+0	3	4	2	4	0	7	0			5	0	5	0	5	0	0	5	0			0	0	0	6
+
+sufficiunt	uires	nec	uox	aut	uerba	sequuntur:
+neither	voice	nor	words	follow	our	wishes:
+3	4	5	6	7	0	0
+
+sic	Turno,	quacumque	uiam	uirtute	petiuit,
+thus,	wherever	Turnus	tried`to`find	a`way	with`valour,
+1	3		2	6		4	5
+
+successum	dea	dira	negat.	tum	pectore	sensus
+the	dread	goddess	denied	him	success.	Then	in`his`mind	various`[uarii]	thoughts
+2	3	2	4	0	1		5	6		0		7
+
+uertuntur	uarii;	Rutulos	aspectat	et	urbem
+were`stirred`up;	he`gazed`on	his	Rutulians	and	the`city,
+1			4		0	3		5	6
+
+cunctatur`	que	metu	letum`	que	instare	tremescit,
+he`faltered	with`fear	and,	trembling,	he`saw	that	death	was`approaching;
+1		2		5	7		6	0	4	6
+
+nec	quo	se	eripiat,	nec	qua	ui	tendat	in	hostem,
+he	neither	saw`[uidet]	to`where	he	might`escape,	nor	with`what	force	he`may`attack	his`enemy,
+0	1	0		2		3	4		5	6		7	8		10
+
+nec	currus	usquam	uidet	aurigam`	ue	sororem.
+nor	his	chariot	anywhere	or	his	sister,	the`charioteer.
+1	0	3	2		6	0	7	5
+
+cunctanti	telum	Æneas	fatale	coruscat,
+As	Turnus	hesitated,	Æneas	brandished	the	fateful	spear,
+1	0	1		3	5		2	4	2
+
+sortitus	fortunam	oculis,	et	corpore	toto
+s`	e`	e`	i`	n`	g	a`favourable`chance	[lit.	drawing`upon	a`favourable`chance	with`his`eyes	],	and	hurled`[intorquet]	it	from`afar`[eminus]	with	all	his	strength	[lit.	body	]
+1	3	1	3	1	3	2			0	1		2			3		0	4	0			0	0			5	6	0	5		0	5	0
+
+eminus	intorquet.	murali	concita	numquam
+Stones`[saxa]	hurled	by	siege`[tormento]	artillery	[lit.	wall	weapons	for	hurling`[tormento]	]	never	roar`[fremunt]	like`this`[sic],
+0		4	3	0			3		0	3	0	0	0			0	5	0		0
+
+tormento	sic	saxa	fremunt	nec	fulmine	tanti
+nor	do	such	great`crashings`[crepitus]	leap`from`[dissultant]	thunderbolts.
+5	0	7	0		0		6
+
+dissultant	crepitus.	uolat	atri	turbinis	instar
+The`spear`[hasta]	flew	like	a	black	whirlwind
+0			3	6	5	4	5
+
+exitium	dirum	hasta	ferens	oras`	que	recludit
+bearing	terrible	destruction,	and	pierced	the`edge
+4	2		1		6	7	5
+
+loricæ	et	clipei	extremos	septemplicis	orbis;
+of`his`breastplate	and	the	outermost	rim	of	his	sevenfold	shield;
+1			2	6	4		6	3	0	5		3
+
+per	medium	stridens	transit	femur.	incidit	ictus
+it`went	whistling	right	through	the`middle	of	his	thigh.
+4	3		0	1	2		5	0	5
+
+ingens	ad	terram	duplicato	poplite	Turnus.
+Stricken`[ictus],	the	mighty	Turnus	fell`[incidit]	to	the`ground	on	bended	knee.
+0			6	1	6	0		2	3		5	4	5
+
+consurgunt	gemitu	Rutuli	totusque	remugit
+The`Rutulians	rose`up	with`a`groan	and	the`whole
+3		1	2		5	4
+
+mons	circum	et	uocem	late	nemora	alta	remittent.
+mountain	echoed`[remugit]	round`about	and	far`and`wide	the	high	forest	answered	the`sound.
+1		0			2		3	5		6	7	6	8		4
+
+ille	humilis	supplex	oculos	dextram`	que	precantem
+He	like	a	humble	suppliant,	raising`[protendens]	his`eyes	and	his	beseeching	right`hand,
+1	0	3	2	3		0			4		6	0	7		5
+
+protendens	“equidem	merui	nec	deprecor”	inquit;
+said,	“Indeed	I`have`deserved	this,	and	I`ask	no	mercy;
+6	2	3		0	4	5	4	5
+
+“utere	sorte	tua.	miseri	te	si	qua	parentis
+use	your	good`fortune.	If	any	thought`[cura]	of	a`parent’s	grief
+1	3	2		6	7	0		4	8		4
+
+tangere	cura	potest,	oro	(fuit	et	tibi	talis
+can	touch	you`[te],	I`beg	(	and	you	had	[lit.	there`was	to`you	]	such
+3	1	0		4	0	6	7	5	0	5		7	0	8
+
+Anchises	genitor)	Dauni	miserere	senectæ
+a`father	in	Anchises	),	take`pity	on	Daunus’s	old`age
+2		0	1		0	4		5	3		5
+
+et	me,	seu	corpus	spoliatum	lumine	mauis,
+and	give[-dde`(da)]	me,	or`if	you`prefer,	my	body	deprived	of`light,
+1	0		2	3	7		0	4	5		6
+
+re`	dde	meis.	uicisti	et	uictum	tendere	palmas
+back	to`my`own`people.	You`have`won	and	the`men`of`Ausonia`[Ausonii]
+1	2			3		4	0
+
+Ausonii	uidere;	tua	est	Lauinia	coniunx,
+have`seen	me	stretching`out`[tendere]	my	hands`[palmas]	in`defeat`[uictum];	Lavinia	is	your	wife,
+2		0	0				0	0		0			5	4	3	6
+
+ulterius	ne	tende	odiis.”	stetit	acer	in	armis
+go	no	further	in`hatred.”	Æneas`[Aeneas]	stood	fierce	in	his	armour,
+3	2	1	4		0		5	6	7	0	8
+
+Æneas	uoluens	oculos	dextram`	que	repressit;
+shifting	his`gaze,	and	he`restrained	his`hand;
+2		3		5	6		4
+
+et	iam	iam`	que	magis	cunctantem	flectere	sermo
+and	now	hesitating	more	and	more,	Turnus’	words	began`[coeperat]	to`persuade
+1	2	6		5	0	3	0	8	0			7
+
+cœperat,	infelix	umero	cum	apparuit	alto
+him,	when	the	unlucky	sword-belt`[balteus]	came`to`view	high	on`his`shoulder
+0	4	0	2	0			5		6	3
+
+balteus	et	notis	fulserunt	cingula	bullis
+and	the`strap	of`the`boy`[pueri]	Pallas`[Pallentis]	glittered	with`the`studs	that`he`knew`so`well,
+2	5		0			0			4		6		3
+
+Pallentis	pueri	uictum	quem	ulnere	Turnus
+for	Turnus	had`brought`[strauerat]	the`defeated	Pallas	low`[strauerat]	with`a`wound
+0	6	0			3		4	0		5
+
+strauerat	atque	umeris	inimicum	insigne	gerebat.
+and	now	wore	on`his`shoulder	the`trophy	won	from`an`enemy.
+2	0	6	3		5		0	4
+
+ille,	oculis	postquam	sæui	monimenta	doloris
+Æneas,	after	he`had`drunk`in`[hausit]	with`his`eyes	the`spoils`[exuuias]	that`had`reminded`him
+1	3	0				2		0			5
+
+exuuias`	que	hausit,	furiis	accensus	et	ira
+of`his`savage`[saeui]	grief`[doloris],	burning	with`fury	and	terrible`[terribilis]	in`his`wrath,
+0			0			5	4		6	0			7
+
+terribilis:	“tune	hinc	spoliis	indute	meorum
+said:	“Shall	you	be`snatched`[eripiare]	from`me`[mihi],	wearing	the`spoils	of`one`of`my	friends`	?
+0	3	2	0			0		5	4		6		0		2
+
+eripiare	mihi?	Pallas	te	hoc	uulnere,	Pallas
+It	is	Pallas,	yes	Pallas,	who	with	this	wound
+0	0	3	0	7	0	6	7	6
+
+immolat	et	pœnam	scelerato	ex	sanguine	sumit.”
+sacrifices	you`[te]	and	exacts	punishment	from	your	wicked	blood.”
+1		0		2	7	3		5	0	4	6
+
+hoc	dicens	ferrum	aduerso	sub	pectore	condit
+Saying	this	he`buried	his	blade	deep`into	Turnus’	chest,
+2	1	7		0	3	5		4	6
+
+fervidus;	ast	illi	soluuntur	frigore	membra
+blazing`with`anger.	But	Turnus’	limbs	grew`limp	through`cold
+1			2	3	6	4		5
+
+uita`	que	cum	gemitu	fugit	indignata	sub	umbras.
+and	with	a`groan	his	life	fled	in`anger	down`to	the`shades	below.
+2	3	4	0	1	5	6		7	8		7

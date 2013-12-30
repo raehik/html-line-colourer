@@ -1,0 +1,275 @@
+at	pater	Æneas	audito	nomine	Turni
+But	father	Æneas,	having`heard	Turnus’	name
+1 	2	3	4		6	5
+
+deserit	et	muros	et	summas	deserit	arces
+both 	abandons	the`walls	and	abandons	the	lofty	citadels
+2	1		3		4	6		7	7	5
+
+præcipitat`	que	moras	omnis,	opera	omnia	rumpit
+and	flings`aside	all	delays	and	breaks`off	all	tasks
+2	1		4	3	0	7	6	5
+
+lætitia		exsultans	horrendum`	que	intonat	armis:
+rejoicing	with`happiness	and	thundering	terribly	with	his	weapons.
+2		1		4	5		3		6	0	6
+
+quantus	Athos	aut	quantus	Eryx	aut	ipse	coruscis
+He	was	as`great`as	mount`Athos,	as`great`as	mount`Eryx,	or	as`great`as`[quantus]	Father`Appeninus`[pater`Appeninus]	himself
+0	0	1		2		4		5		6	0			0					7
+
+cum	fremit	ilicibus	quantus	gaudet`	que	niuali
+when	he`roars	with	his	quivering`[coruscis]	oak`trees	and	rejoices
+1	2		3	0	0			3		6	5
+
+uertice se	attollens	pater	Apenninus	ad	auras.
+lifting	himself	to	the`breeze	with	his	snowy`[niuali]	peak.
+3	2	6	7		1	0	0		1
+
+iam	uero	et	Rutuli	certatim	et	Trœs	et	omnes
+Now	indeed	both	the`Rutilians	and	the`Trojans	and	all	the`Italians`[Itali]
+1	2	3	4		6	7		8	9	0
+
+conuertere	oculos	Itali,	qui`	que	alta	tenebant
+eagerly`[certatim]	turned	their	eyes,	to	see	both	those`who	were`holding
+0			1	0	2	0	0	5	4		7
+
+mœnia	qui`	que	imos	pulsabant	ariete	muros,
+the`lofty`[alta]	ramparts	and	those`who	were`battering	the`base	of`the`walls	with`their`ram,
+0			7		3	2		5		4		1		6
+
+arma`	que	deposuere	umeris.	stupet	ipse	Latinus
+having`removed	their	weapons	from	their  	shoulders.	Latinus	himself	was`amazed
+3		0	1	4	0	4		7	6	5
+
+ingentis,	genitos	diuersis	partibus	orbis,
+that	these	huge	men`[uiros],	born	in	[lit.	of	]	distant	parts	of`the`world,
+0	0	1	0		2	3	0	3	0	3	4	5
+
+inter	se	coiisse	uiros	et	cernere	ferro.
+had`come`together	in`battle	and	were`deciding	the`issue	among	themselves	by`sword	[lit.	by`iron	].
+3			0		5	6		0		1	2		7		0	7	0
+
+atque	illi,	ut	uacuo	patuerunt	æquore	campi,
+And	they,	when	the`plain	was`clear	with`an`open	surface,
+1	2	3	7		5		4		6
+
+procursu	rapido	coniectis	eminus	hastis
+with`rapid	forward`charge,	still`far`apart	cast	their	spears
+2		1		4		3	0	5
+
+inuadunt	Martem	clipeis	atque	ære	sonoro.
+and	tearing`foward`they`go	into`war	[lit.	into`Mars	]	with	bronze	shields	clanging.
+4	1			2		0	2		0	3	5	3	6
+
+dat	gemitum	tellus;	tum	crebros	ensibus	ictus
+The`earth	gave	a`groan;	then	with`their`swords	they`redoubled`[congeminant]	their	frequent	blows,
+3		1	2		4	6			0				0	5		7
+
+congeminant,	fors	et	uirtus	miscetur	in	unum.
+chance	and	bravery	were`mingled	into	one.
+2	3	4	5		6	7
+
+ac	uelut	ingenti	Sila	summo`	ue	Taburno
+And	just`as	when`[cum],	on	massive	Sila	or	Taburnus’s	summit,
+1	2	0		4	3	4	6	7		5
+
+cum	duo	conuersis	inimica	in	prœlia	tauri
+two	bulls	charge`[incurrunt]	horn`to`horn`[conuersis`frontibus]	[lit.	with`horns`[frontibus]	having`swept`together	]	in	hostile	battle,
+2	7	0			3					0	0			3			0	5	4	6
+
+frontibus	incurrunt,	pauidi	cessere	magistri,
+the`herdsmen	fall`back	in`terror,
+5		4		3
+
+stat	pecus	omne	metu	mutum,	mussant`	que	iuuencæ
+the	whole	herd	stands	silent	with`fear	and	the`heifers	wait`in`silence
+2	3	2	1	5	4		7	8		6
+
+quis	nemori	imperitet,	quem	tota	armenta	sequantur;
+to`see	who	is`to`rule	the`forest,	whom	the	whole	herd	shall	follow;
+0	1	3		2		4	6	5	6	7	7
+
+illi	inter	sese	multa	ui	uulnera	miscent
+they	exchange	wounds	between	each`other	with	mighty	force
+1	7		6	2	3		5	4	5
+
+cornua`	que	obnixi	infigunt	et	sanguine	largo
+and	they,	struggling`together,	drive`in	their	horns,	and	in`streams	of`blood
+2	4	3			4		0	1	5	7		6
+
+colla	armos`	que	lauant,	gemitu	nemus	omne	remugit:
+bathe	their	necks	and	shoulders;	the	whole	woodland	echoes	with	their	bellowing:
+4	0	1	3	2		6	7	6		8	5	0	5
+
+non	aliter	Tros	Æneas	et	Daunius	heros
+j`	u`	s`	t	s`	o	[lit.	not	unlike	]	Trojan	Æneas	and	the	Daunian	hero
+1	2	1	2	1	2	0	1	2	0	3	4	5	7	6	7
+
+concurrunt	clipeis,	ingens	fragor	æthera	complet.
+charged	into`battle	together	with	their	shields,	the	mighty	crash	filling	the`sky.
+1	0		1		2	0	2		4	3	4	6	5
+
+Iuppiter	ipse	duas	æquato	examine	lances
+Jupiter	himself	held`up`[sustinet]	a`pair`of	scales	with`the`tongue`of`balance	made`equal
+1	2	0			3		4	5				6
+
+sustinet	et	fata	imponit	diuersa	duorum,
+and	put`upon	them	the	different	fates	of`both,
+2	4		0	3	5		3	6
+
+quem	damnet	labor	et	quo	uergat	pondere	letum	.
+to`decide	who	would`be`doomed	in`the`struggle,	and	with`whose	weight	death	would`descend.
+0		1	2		3			4	5		7	8	6
+
+emicat	hic	impune	putans	et	corpore	toto
+At`this`moment,	Turnus	flashed`forth,	thinking	it`safe	to`do`so,	and
+2		0	1		4		3	0		5
+
+alte	sublatum	consurgit	Turnus	in`ensem
+he`rose`to	his`[corpore]	full`[toto]	height	to`wield`his	sword	raised`aloft
+3		0	0	1	4		5	2
+
+et	ferit;	exclamant	Trœs	trepidi`	que	Latini,
+and	struck;	the`Trojans	and	the	terrified	Latins
+1	2	4		6	7	5		7
+
+arrectæ`	que	amborum	acies.	at	perfidus	ensis
+and	the`excited`armies	of`both`sides	shouted`out`[exclamant].	But	the	treacherous	sword
+2	4			3		0				5	7	6		7
+
+frangitur	in	medio`	que	ardentem	deserit	ictu,
+snapped	and	would`have`failed	the`raging`Turnus	in	mid-`	stroke
+1	4	6			5			2	3	7
+
+ni	fuga	subsidio	subeat.	fugit	ocior	Euro
+had`not`flight`come	to`his`aid.	He`fled	swifter	than	the`east`wind,
+4			3		5	6	0	7
+
+ut	capulum	ignotum	dextram`	que	aspexit	inermem.
+when	he`saw	the	unknown	sword-hilt	in	his	defenceless	right`hand.
+1	6	2	3	2		7	0	7		4
+
+fama	est	præcipitem,	cum	prima	in	prœlia	iunctos
+The`story	goes	that	in	his	hurry,	when	early	in	the`battle
+1		2	0	3	0	4	4	5	6	7
+
+conscendebat	equos,	patrio	mucrone	relicto,
+he`was`mounting	the`chariot`of`his	yoked`[iunctos]	horses,	he`left	his	father’s	blade	behind,
+1		0			0		2	5	0	3		4	5
+
+dum	trepidat,	ferrum	aurigæ	rapuisse	Metisci;
+while	in`his`eager`haste,	and	seized	the`sword	of	his	charioteer	Metiscus;
+1	2			0	5	3		4	0	4		6
+
+id`	que	diu,	dum	terga	dabant	palantia	Teucri,
+and	for`a`long`time,	as`long`as	the`Trojans	were`turning	their	backs	in`scattered`flight,
+2	3			4		8		6		0	5	7
+
+suffecit;	postquam	arma	dei	ad	Uolcania	uentum`est,
+it`[id]	sufficed;	but	after	it`came	against	the`armour	forged	by	the`god	Vulcan,
+0	1		0	2	7	5	3		0	0	4	6
+
+mortalis	mucro	glacies	ceu	futtilis	ictu
+the	mortal	blade,	like	brittle	ice,	shattered`[dissiluit]	at`the`stroke,
+2	1	2	4	5	3	0			6
+
+dissiluit,	fulua	resplendent	fragmina	harena.
+the`fragments	glittered	on`the	golden	sand.
+4		3		5	2	5
+
+ergo	amens	diuersa	fuga	petit	æquora	Turnus
+Therefore,	mad	for`flight,	Turnus	made`for	different`parts	of`the`plain
+1		2	4		7	5		3		6
+
+et	nunc	huc,	inde	huc	incertos	implicat	orbis;
+and,	now	here,	now	there,	wound	his	uncertain`course	in`aimless`circles;
+1	2	3	4	5	7	0	6			8
+
+undique	enim	densa	Teucri	inclusere	corona
+For	on`all`sides,	the`Trojans	enclosed	him	in	a	thick	circle.
+2	1		4		5		0	5	6	3	6
+
+atque	hinc	uasta	palus,	hinc	ardua	mœnia	cingunt.
+and	on`one`side	a	great	swamp,	on`the`other	lofty	walls	blocked	him	in.
+1	2		4	3	4	5		6	7	8	0	8
+
+nec	minus	Æneas,	quamquam	tardata	sagitta
+Nor	less	eagerly	did	Æneas,	although	at`times`[interdum],	slowed	by`the`arrow`wound,
+1	2	0	0	3	4		0			5	6
+
+interdum	genua	impediunt	cursum`	que	recusant,
+his	knees	delayed	him	and	refused	to`run,
+0	2	3	0	5	6	4
+
+insequitur	trepidi`	que	pedem	pede	feruidus	urget:
+he`pursued	and,	raging,	he`pressed	h`	a`	r`	d	o`	n	t`	h`	e	h`	e`	e`	l`	s	[lit.	step	for`step	]	of`the`terrified	Turnus:
+1		3	6	7		4	5	4	5	4	5	4	5	4	5	4	5	4	5	0	4	5		0	2			0
+
+inclusum	ueluti	si`quando	flumine	nactus
+just`as	when	a	hunting	dog	[uenator	canis],	having`met	a`stag`[ceruum]	trapped	by`a`river
+2	4	0	0	0	0		0	5		0		1	4
+
+ceruum	aut	puniceæ	sæptum	formidine	pennæ
+or	hemmed`in	by`the`terror	of	crimson	feathers,
+2	4		5		6	3	6
+
+uenator	cursu	canis	et	latratibus	instat;
+with`running	and	barking	presses`on	him.
+2		4	5	6		0
+
+ille	autem	insidiis	et	ripa	territus	alta
+But	the`stag,	terrified	by`the`snares	and	high	river`bank
+2	1		6		3		4	7	5
+
+mille	fugit	re`	fugit`	que	uias,	at	uiuidus	Umber
+flees	to	and	fro	[lit.	flees	and	flees	back	]	over	a`thousand	paths;	but	the	eager	Umbrian`hound
+2	4	5	3	0	2	5	4	3	0	6	1		6	7	9	8	9
+
+hæret	hians,	iam	iam`	que	tenet	similis`	que	tenenti
+clings`close	with`jaws`agape	and	now,	now	seizes	him,	and	as`though	he`has`seized	him,
+1		2		5	4	3	6	0	8	7		9		0
+
+increpuit	malis	morsu`	que	elusus	inani	est;
+has`snapped	with`his`jaws	but	has`been	fooled	by`an	empty	bite;
+1		2		4	7		5	3	6	3
+
+tum	uero	exoritur	clamor	ripæ`	que	lacus`	que
+then	indeed	an`uproar	arises,	and	the`banks	and	the`lakes
+1	2	4		3	6	5		8	7
+
+responsant	circa	et	cælum	tonat	omne	tumultu.
+all`around	echo	and	all`of	heaven	thunders	with`the`din.
+2		1	3	6	4	5		7
+
+ille	simul	fugiens	Rutulos	simul	increpat	omnis
+At`every`moment	that`he`fled,	Turnus	shouted`at	all	the`Rutilians
+2		3		1	6		7	4
+
+nomine	quemque	uocans	notum`	que	efflagitat	ensem.
+calling	each	by`name	and	demanding	his`own	well-known	sword.
+3	2	1	5	6		7	4		7
+
+Æneas	mortem	contra	præsens`	que	minatur
+Æneas	on`the`other`hand	threatened	instant	death
+1	3			6		4	2
+
+exitium,	si	quisquam	adeat,	terret`	que	trementis
+and`[que]	destruction,	if	anyone	should`approach,	and	terrified	his	trembling	foes
+0		1		2	3	4			6	5		0	7		0
+
+excisurum	urbem	minitans	et	saucius	instat.
+threatening	to`raze	their	city	to`the`ground,	and,	though`wounded,	pressed`on.
+3		1	0	2	1		4	5		6
+
+quinque	orbis	explent	cursu	totidem`	que	retexunt
+They`run	five	full	circles,	and	unweave	as`many
+4		1	3	2		6	7	5
+
+huc	illuc;	neque	enim	leuia	aut	ludicra	petuntur
+again	in`the`opposite`direction;	for	neither	trivial	nor	sporting	prizes`[praemia]	are`at`stake,
+1	2				4	3	5	3	7		0			8
+
+præmia,	sed	Turni	de	uita	et	sanguine	certant.
+but	for	Turnus’	life	and	blood	they`strive.
+2	4	3	5	6	7	8
