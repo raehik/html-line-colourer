@@ -118,7 +118,7 @@ sustinet	et	fata	imponit	diuersa	duorum,
 and	put`upon	them	the	different	fates	of`both,
 2	4		0	3	5		3	6
 
-quem	damnet	labor	et	quo	uergat	pondere	letum	.
+quem	damnet	labor	et	quo	uergat	pondere	letum.
 to`decide	who	would`be`doomed	in`the`struggle,	and	with`whose	weight	death	would`descend.
 0		1	2		3			4	5		7	8	6
 
