@@ -21,7 +21,6 @@ Though in the former problem, you can simply make 'he' and 'said' individually p
 
 
 ### word`word
-Spaces two words but counts them as one word inside -- that is, the two parts will be apart but coloured the same. Useful for when PPPs and the rest, because you may want to see/translate a word like `certandum est` as one 'thing'.
-
+Spaces two words but counts them as one word inside -- that is, the two parts will be apart but coloured the same. Useful for when PPPs and the rest, because you may want to see/translate a word as one actual concept. For example, you might translate 'certandum est' to 'we must fight', but it's pretty difficult to show which individual bits of the word translate: it's easier to translate that 'block' into another one. And because that second block may be made up of one word OR multiple words, we have this and the next one.
 ### word` word
 Joins two words but counts them as separate words inside -- that is, the two parts will be together but coloured differently. Incredibly useful for prefixes and suffixes and Latin (e.g. telumque)
