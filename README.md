@@ -17,10 +17,10 @@ For example, the Latin *inquit* means 'he said'. But 'he said' is two words.
 Worse still, the Latin *certandum est* can be translated as 'we must fight' in the context of the Aeneid (Book XII).
 
 
-Though in the former problem, you can simply make 'he' and 'said' individually point to *inquit*, if I ever want to do any clever mangling of the words and such given as input, the program must know which phrases link to which other phrases. Using backticks may not look so neat, but the program will understand better what you mean when you translate *quantus* as 'as`great`as'.
+Though in the former problem, you can simply make 'he' and 'said' individually point to *inquit*, if I ever want to do any clever mangling of the words and such given as input, the program must know which phrases link to which other phrases. Using backticks may not look so neat, but the program will understand better what you mean when you translate *quantus* as 'as\`great\`as'.
 
 
 ### word`word
-Spaces two words but counts them as one word inside -- that is, the two parts will be apart but coloured the same. Useful for when PPPs and the rest, because you may want to see/translate a word as one actual concept. For example, you might translate 'certandum est' to 'we must fight', but it's pretty difficult to show which individual bits of the word translate: it's easier to translate that 'block' into another one. And because that second block may be made up of one word OR multiple words, we have this and the next one.
+Spaces two words but counts them as one word inside -- that is, the two parts will be apart but coloured the same. Useful for when PPPs and the rest, because you may want to see/translate a word as one actual concept. For example, you might translate *certandum est* to 'we must fight', but it's pretty difficult to show which individual bits of the word translate: it's easier to translate that 'block' into another one. And because that second block may be made up of one word OR multiple words, we have this and the next one.
 ### word` word
-Joins two words but counts them as separate words inside -- that is, the two parts will be together but coloured differently. Incredibly useful for prefixes and suffixes and Latin (e.g. telumque)
+Joins two words but counts them as separate words inside -- that is, the two parts will be together but coloured differently. Incredibly useful for prefixes and suffixes and Latin (e.g. *telum\`que*)
