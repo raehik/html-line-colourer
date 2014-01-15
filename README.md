@@ -2,13 +2,12 @@ html-line-colourer
 ======================
 
 ## Summary
-Colours each word separately in a given line using a list of possible HTML colours, then colours a second given line using a variable denoting which word-colour each word should have.
+Randomly colours the first line (with HTML font tags), then colours the second line relative to the assigned colours in the first line. That is, the second line is mapped to the first (via a third numeric line) and they are randomly coloured.
 
 Basically, it allows you to automate the (HTML) colouring of lines. Think translations: the first line is coloured randomly, then the second line (a translation of the first) is coloured so that 'matching words' have the same colour.
 
 ## Syntax
-
-You use backticks to signify when the meaning of the master word is either:
+The first two lines are processed differently, but both are filtered for the backtick character ('\`'). You use backticks to change the signify when the meaning of the master word is either:
 	not explained in one word, or
 	needs adjacent words to be considered.
 That is, when a 'word' in either the master or the slave is not actually just one word separated by spaces.
@@ -24,3 +23,6 @@ Though in the former problem, you can simply make 'he' and 'said' individually p
 Spaces two words but counts them as one word inside -- that is, the two parts will be apart but coloured the same. Useful for when PPPs and the rest, because you may want to see/translate a word as one actual concept. For example, you might translate *certandum est* to 'we must fight', but it's pretty difficult to show which individual bits of the word translate: it's easier to translate that 'block' into another one. And because that second block may be made up of one word OR multiple words, we have this and the next one.
 ### word` word
 Joins two words but counts them as separate words inside -- that is, the two parts will be together but coloured differently. Incredibly useful for prefixes and suffixes and Latin (e.g. *telum\`que*)
+
+## Further explanation
+Each passage should be 3 lines long: a 'master' line, a 'slave' line, and a line showing how the slave words maps to the master words.

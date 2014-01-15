@@ -90,7 +90,7 @@ def get_slave(lst, colours, col_ord):
                 # TODO: probably move this lol
                 # remember col_ord is used as a one-based list to ease
 		# understanding - it also means 0 can be used specially
-		# for no colour -change-
+		# for no colour change (not necessarily black!)
                 lst_format.append('<font color="#' + colours[col_ord[i]-1] + '">' + word + '</font>' + space)
             except IndexError:
                 print_error("col_ord specified a word master (line 1) doesn't have - master is not that long (less than " + str(col_ord[i]) + " word(s) long)", lst)
