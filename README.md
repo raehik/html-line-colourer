@@ -7,7 +7,12 @@ Randomly colours the first line (with HTML font tags), then colours the second l
 Basically, it allows you to automate the (HTML) colouring of lines. Think translations: the first line is coloured randomly, then the second line (a translation of the first) is coloured so that 'matching words' have the same colour.
 
 ## Syntax
-The first two lines are processed differently, but both are filtered for the backtick character ('\`'). You use backticks to change the signify when the meaning of the master word is either:
+Though the first two lines are processed differently, both are filtered for the backtick character ('\`'). You use backticks to change whether spaces should be present. It's a bit complicated:
+
+- To 'connect' words, e.g. a main word and its suffix, you put a backtick on the end of the first word. That's all. Normal spacing. In the output, the words will have no spaces between them, but otherwise are **completely seperate words**.
+- To seperate a 
+
+signify when the meaning of the master word is either:
 	not explained in one word, or
 	needs adjacent words to be considered.
 That is, when a 'word' in either the master or the slave is not actually just one word separated by spaces.
