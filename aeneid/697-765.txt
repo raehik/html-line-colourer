@@ -27,7 +27,7 @@ lifting	himself	to	the`breeze	with	his	snowy`[niuali]	peak.
 3	2	6	7		1	0	0		1
 
 iam	uero	et	Rutuli	certatim	et	Trœs	et	omnes
-Now	indeed	both	the`Rutilians	and	the`Trojans	and	all	the`Italians`[Itali]
+Now	indeed	both	the`Rutulians	and	the`Trojans	and	all	the`Italians`[Itali]
 1	2	3	4		6	7		8	9	0
 
 conuertere	oculos	Itali,	qui`	que	alta	tenebant
@@ -243,7 +243,7 @@ all`around	echo	and	all`of	heaven	thunders	with`the`din.
 2		1	3	6	4	5		7
 
 ille	simul	fugiens	Rutulos	simul	increpat	omnis
-At`every`moment	that`he`fled,	Turnus	shouted`at	all	the`Rutilians
+At`every`moment	that`he`fled,	Turnus	shouted`at	all	the`Rutulians
 2		3		1	6		7	4
 
 nomine	quemque	uocans	notum`	que	efflagitat	ensem.
